@@ -2,4 +2,4 @@
 #!desc=LFS网页直连
 #!system=mac
 [Rule]
-IP-CIDR,47.113.216.146//32,DIRECT,no-resolve
+IP-CIDR,47.113.216.146/32,DIRECT,no-resolve
