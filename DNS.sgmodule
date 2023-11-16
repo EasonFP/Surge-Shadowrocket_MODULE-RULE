@@ -1,2 +1,4 @@
+#!name=DNS by Google & Cloudflare
+#!desc=境外DNS
 [General]
 dns-server = 8.8.8.8, 1.1.1.1
