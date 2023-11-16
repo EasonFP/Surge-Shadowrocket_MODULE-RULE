@@ -1,5 +1,5 @@
-#!name=surge_LFS
+#!name=Module_LFS
 #!desc=LFS网页直连
-#!system=mac
+
 [Rule]
 IP-CIDR,47.113.216.146/32,DIRECT,no-resolve
