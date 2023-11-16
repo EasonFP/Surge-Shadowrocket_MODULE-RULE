@@ -3,3 +3,6 @@
 
 [Rule]
 IP-CIDR,47.113.216.146/32,DIRECT,no-resolve
+//阿里服务器
+DOMAIN,stun.l.google.com,DIRECT
+//谷歌stun服务器
