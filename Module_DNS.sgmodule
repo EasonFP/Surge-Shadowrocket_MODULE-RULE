@@ -1,0 +1,6 @@
+#!name=Module_DNS
+#!desc=复写DNS
+
+[General]
+doh-server = https://dns.alidns.com/dns-query
+dns-server = 8.8.8.8, 1.1.1.1
