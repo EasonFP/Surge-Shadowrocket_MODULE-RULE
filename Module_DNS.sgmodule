@@ -1,5 +1,5 @@
 #!name=Module_DNS
-#!desc=复写DNS
+#!desc=覆写DNS
 
 [General]
 doh-server = https://dns.alidns.com/dns-query
